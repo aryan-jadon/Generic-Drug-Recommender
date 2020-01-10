@@ -11,12 +11,12 @@ pip install -r requirements.txt
 
 ### Usage
 
-```
 > Run the program through command line terminal
 
 ```
 python Medicine-code.py
 ```
+
 
 ## License
 
